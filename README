@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3439
+
+This is a Vim version of one of TextMate's default colour schemes, Cobalt. Only designed for GVim. It doesn't try to accurately reflect the TextMate Cobalt colour scheme but instead is inspired by it. For a more accurate version of the TextMate colour scheme, see vimscript#2828.
+
+If you want to follow the development you can find it on Github at http://github.com/dterei/VimCobaltColourScheme
